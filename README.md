@@ -19,7 +19,7 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
   -  How many total Vine reviews and non-Vine reviews were there?
       - As you can see from the image below there are a total of 44,714 reviews.
     
-   ![image](https://github.com/antxamp/Amazon_Vine_Analysis/blob/main/Resources/Q1_Vine_Review.PNG)
+   ![image](https://github.com/antxamp/Amazon_Vine_Analysis/blob/main/Resources/Q1_Vine_Reviews.PNG)
     
   -  How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
       - According to the data that was processed there were a total of 19,663 reviews.  Out of all the verified purchases 10,458 were 5-star vine reviews and 9,205 non-vine reviews.
